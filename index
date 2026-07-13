@@ -3,4 +3,5 @@
     <header>
       <h1>Meine Website</h1>
       <h2>
-      <h3>table</h3>
+      <table>
+        <thead>Mo Di Mi Do Fr Sa So</thead>
